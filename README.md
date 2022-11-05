@@ -11,11 +11,6 @@
 <h1 align="center"> TECNOLOGÍAS APRENDIDAS: </h1>
 
 <br />
-  <a href="https://www.mongodb.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/mongodb.svg" alt="miguetto" height="28px" width="28px" />
-  </a>
-  
-  <p align="center">Sigo formandome en React, Node, Express y Redux. </p>
   
 </p>
 
@@ -35,6 +30,7 @@
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 
+  <p align="center">Sigo formandome en React, Node, Express y Redux. </p>
   
 </p>
 
