@@ -1,4 +1,4 @@
-<h1 align="center" > 👋 Hi, I’m @Miguetto 👨🏻‍💻</h1>
+<h1 align="center" > 👋 Hola, Soy @Miguetto 👨🏻‍💻</h1>
 
 <br />
 
