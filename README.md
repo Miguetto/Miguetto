@@ -5,7 +5,12 @@
 <p align="center"> 👀 Me interesa el <strong> Desarrollo Web </strong> </p>
 <p align="center">🌱 Actualmente sigo aprendiendo <strong>React</strong> </p>
 <p align="center"> 📫 Siéntete libre de contactar conmigo <strong> migueliscb@gmail.com </strong> </p>
-
+<p align="center">
+  👀 OJEA MI CURRÍCULUM: 
+  <a href="https://github.com/Miguetto/CV/blob/gh-pages/Miguel%20%C3%81ngel%20Caro%20Bernal.pdf" target="_blank">
+    <strong>CV</strong>
+  </a>
+</p>
 <br />
 
 <h1 align="center"> TECNOLOGÍAS APRENDIDAS: </h1>
@@ -36,12 +41,7 @@
 
 <br />
 
-<p align="center">
-  👀 OJEA MI CURRÍCULUM: 
-  <a href="https://github.com/Miguetto/CV/blob/gh-pages/Miguel%20%C3%81ngel%20Caro%20Bernal.pdf" target="_blank">
-    <strong>CV</strong>
-  </a>
-</p>
+
 
 
 
