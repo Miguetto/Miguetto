@@ -11,6 +11,14 @@
     <strong>CV</strong>
   </a>
 </p>
+<p align="center">
+  👀 VISITA MI PORTFOLIO: 
+    <a href="https://miguetto.github.io/my-portfolio/#/portfolio" target="_blank">
+      <strong>PORTFOLIO</strong>
+    </a>
+  
+</p>
+
 <br />
 
 <h1 align="center"> TECNOLOGÍAS APRENDIDAS: </h1>
