@@ -3,7 +3,6 @@
 <br />
 
 <p align="center"> 👀 Me interesa el <strong> Desarrollo Web </strong> </p>
-<p align="center">🌱 Actualmente sigo aprendiendo <strong>React</strong> </p>
 <p align="center"> 📫 Siéntete libre de contactar conmigo <strong> migueliscb@gmail.com </strong> </p>
 <p align="center">
   👀 OJEA MI CURRÍCULUM: 
