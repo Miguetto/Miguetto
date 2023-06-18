@@ -42,7 +42,7 @@
 [![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
 
-  <p align="center">Sigo formandome en React, Node, Express y Redux. </p>
+  <p align="center">En constante formación. </p>
   
 </p>
 
