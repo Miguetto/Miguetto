@@ -6,7 +6,7 @@
 <p align="center"> 📫 Siéntete libre de contactar conmigo <strong> migueliscb@gmail.com </strong> </p>
 <p align="center">
   👀 OJEA MI CURRÍCULUM: 
-  <a href="https://github.com/Miguetto/CV/blob/gh-pages/Miguel%20%C3%81ngel%20Caro%20Bernal.pdf" target="_blank">
+  <a href="https://github.com/Miguetto/CV/blob/gh-pages/Miguel%20Angel%20Caro%20Bernal.pdf" target="_blank">
     <strong>CV</strong>
   </a>
 </p>
